@@ -18,6 +18,7 @@ electrodeDemoApp('Rainbow');
 
 Apache-2.0 © [Joel Chen]()
 
+Test CLA
 
 [npm-image]: https://badge.fury.io/js/electrode-demo-app.svg
 [npm-url]: https://npmjs.org/package/electrode-demo-app
